@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f4f4; }
+
+.navbar { background-color: #333; padding: 10px; text-align: center; }
+
+.navbar a { color: white; margin: 10px; text-decoration: none; }
+
+.navbar a:hover { text-decoration: underline; }
+
+.container { padding: 20px; background-color: white; margin: 20px; border-radius: 5px; }
